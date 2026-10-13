@@ -1,0 +1,323 @@
+RUN: 01
+TIME SENT: 2026-10-13 (afternoon, exact time TBD by user)
+MODEL: ChatGPT (GPT) — exact model name to be filled by user
+SESSION: NEW session (first message = prompt) ← confirm before trusting Step 2 verdict
+INPUT PROMPT: 01-prompt/01-prompt.md (verbatim, only last placeholder line replaced)
+INPUT SAMPLES: 00-samples/combined-for-gpt.txt (8 samples: 5 recent + 3 from Jan/Feb 2007)
+
+============================================================
+RAW OUTPUT — VERBATIM, DO NOT EDIT
+============================================================
+
+THE BREAK TEST #01
+Reverse-Engineering the vlogbrothers Writing Style
+Corpus: 8 YouTube video descriptions, 3 labeled January-February 2007 and 5 recent, captured October 13, 2026.
+Important distinction: This is not a clean sample of one writer's voice. It combines descriptions about John, first-person commentary of uncertain authorship, and standardized promotional material.
+The evidence supports analyzing a shared channel voice with several distinct writing modes, not inventing a single universal Hank Green style.
+
+1. VOICE
+Primary posture: The intellectually curious friend who assumes you already belong here.
+The writing alternates between three recognizable positions.
+
+A. The curious peer who is willing to be wrong
+"Productivity when applied to individual creativity, I think, is exactly backward."
+The speaker does not announce expertise through credentials. They introduce a disagreement as a personal conclusion.
+The important construction is strong claim + personal qualification.
+"Exactly backward" supplies conviction. "I think" makes that conviction conversational rather than authoritarian.
+The same movement appears in:
+"This seemed very strange to me, so I dove into the numbers, looked at veterinary euthanasia, end-of-life care, and execution procedures"
+The author positions themselves as someone investigating a strange problem alongside the reader.
+They are not merely reporting findings. They are explaining why they started looking.
+
+B. The affectionate, slightly absurd community insider
+"In which John stages a battle of the books, rubs his eyes a lot, and briefly discusses both Paula Abdul and Ivanka Trump."
+The third-person narrator behaves like a friend introducing another friend's latest adventure.
+There is no explanation of who John is or why his eye-rubbing deserves mention. The audience is treated as familiar with the people involved.
+This familiarity becomes explicit through recurring community vocabulary:
+"HERE ARE A LOT OF LINKS TO NERDFIGHTASTIC THINGS:"
+"Nerdfighteria"
+
+C. The morally serious, personally accountable commentator
+"I think that this has always been an ugly lie"
+The speaker switches from tentative investigation to direct moral judgment.
+Crucially, the judgment is marked as personal: "I think."
+The argument is not hidden behind impersonal academic phrasing.
+
+The inconsistency that matters
+The first-person essayist in "The Productivity Lie" and "Why Are We So Bad at Executing People?" is not performing the same role as the narrator writing:
+"In which John limps to the finish line of Pizzamas and the Hollywood, Ending tour."
+Nor does the sparse announcement:
+"Etyfish is here: https://etyfish.org/"
+provide enough evidence to determine a conversational personality.
+
+Reusable voice rule: Speak as a curious equal. Make confident observations without pretending to possess absolute certainty. When describing familiar people, allow some context to remain unexplained.
+Do not force every subject into the same emotional register.
+
+2. SENTENCE RHYTHM
+There are two distinct sentence systems, not one average rhythm.
+Description-led openings: 5 of 8 samples
+Developed argumentative prose: 2 of 8 samples
+Primarily announcements and links: 1 of 8 samples
+
+Classification of each sample's unique description text, excluding repeated promotional footers.
+
+Mode A: One sentence carrying three unrelated beats
+"In which John finished the survey, discusses babies, makes a gratuitous "In Your Pants" joke, and puts on his invisibility cloak."
+This sentence creates rhythm through enumeration.
+Its pacing is approximately: Normal event -> unrelated event -> joke -> absurd final image.
+There is no separate setup paragraph. The entire miniature story happens inside one sentence.
+
+Mode B: Long, breathless reasoning interrupted by abrupt judgments
+"I think we all should want to make stuff...but the hard part isn't doing it as efficiently as possible...you can do whatever you want once you're making stuff...the hard part is figuring out how to get yourself making."
+The ellipses perform the work of spoken hesitation and revision.
+The sentence keeps extending because the author appears to be correcting an incomplete thought.
+Then the language suddenly contracts:
+"Focusing on "productivity" in that situation is crazy talk..."
+The phrase "crazy talk" is deliberately less formal than the reasoning preceding it.
+
+Mode C: Short opening, expansive evidence, decisive ending
+"We are very bad at executing people."
+This is an exceptionally blunt opening.
+It is followed by qualification and numerical evidence:
+"Depending on how you count, something like 7% of lethal injections in the US have been botched."
+The next sentence expands into a long explanation beginning:
+"This seemed very strange to me, so I dove into the numbers"
+The structure moves from conclusion to uncertainty to investigation.
+
+Where sentences get cut short
+The clearest example is:
+"Sorry it sucks."
+It arrives after an elaborate sentence about uploading from an airport without a power cord.
+The abrupt apology punctures the preceding mock-grandiosity.
+
+Reusable rhythm rule: For miniature descriptions, use one medium-length sentence with three or four accumulating beats. For argumentative writing, alternate a blunt opening, a longer exploratory passage, and a shorter judgment.
+Frequency caveat: The description-led format occurs in five samples, but dramatic short-sentence interruptions are not equally frequent in all five. The evidence does not justify a rule such as "insert a punchline every third sentence."
+
+3. SIGNATURE DEVICES
+Ten identifiable devices appear in the sample set. Some recur across descriptions; others are distinctive to the longer essays and should not be mistaken for universal habits.
+
+1. Mock-literary narration
+"In which John miraculously uploads a video in the Savannah airport in spite of not having a power cord."
+Mechanism: Present a small modern inconvenience as though it were an episode in an old-fashioned adventure.
+"In which" is the key formula. It appears in all three 2007 descriptions and two recent ones.
+
+2. Incongruous list escalation
+"In which John stages a battle of the books, rubs his eyes a lot, and briefly discusses both Paula Abdul and Ivanka Trump."
+Mechanism: Place events with radically different significance into one grammatically equal list.
+The absence of explanatory transitions becomes the joke.
+
+3. Deliberate self-deflation
+"Sorry it sucks."
+Mechanism: Construct a situation that sounds impressive, then remove any claim to impressiveness.
+The humor depends on brevity.
+
+4. Repeated qualification followed by conviction
+"Productivity when applied to individual creativity, I think, is exactly backward."
+"I think that this has always been an ugly lie"
+Mechanism: Combine the modesty of "I think" with an unusually strong conclusion.
+The effect is disagreement without adopting a lecturing voice.
+
+5. Thinking aloud through ellipses
+"the hard part isn't doing it as efficiently as possible...you can do whatever you want once you're making stuff..."
+Mechanism: Make the reader experience the movement between thoughts rather than presenting perfectly separated propositions.
+This occurs prominently in the productivity sample, not consistently across the corpus.
+
+6. Reversal of the expected problem
+"the hard part isn't doing it as efficiently as possible"
+"the hard part is figuring out how to get yourself making."
+Mechanism: Reject the obvious problem definition and replace it with a more fundamental one.
+The repetition of "the hard part" strengthens the reversal.
+
+7. Investigation as personal narrative
+"This seemed very strange to me, so I dove into the numbers, looked at veterinary euthanasia, end-of-life care, and execution procedures"
+Mechanism: Replace an impersonal research summary with a miniature story about curiosity.
+The author is a participant in the process of discovering the answer.
+
+8. Concession before contradiction
+"I understand that, to many, killing a killer is a way of honoring life."
+"I think that this has always been an ugly lie"
+Mechanism: State an opposing moral interpretation in recognizable terms before rejecting it.
+The disagreement is explicit rather than disguised.
+
+9. Comically disproportionate presentation
+"HERE ARE A LOT OF LINKS TO NERDFIGHTASTIC THINGS:"
+"Pizzamas dot com!!"
+Mechanism: Give deliberately trivial or community-specific announcements more typographic enthusiasm than their informational content requires.
+This is especially visible in the older boilerplate and brief promotional descriptions.
+
+10. Recurring visual artifact as an identity marker
+"A Bunny"
+(\
+( - -)
+((') (')
+Mechanism: End repetitive functional information with a small, apparently unnecessary visual joke.
+Its function is not to advance an argument. It makes the description feel like it belongs to a particular community.
+
+Important limitation: The actual "In Your Pants" joke is not present. The sample only states that one was made. Its verbal construction cannot be reverse-engineered from this description.
+
+4. LEXICAL FINGERPRINT
+The most useful distinction is between recurring language that expresses voice and recurring language copied into standardized descriptions.
+
+Fingerprint | Direct evidence | What to reproduce
+Storybook opener | "In which John" | Third-person episode framing
+Personal qualification | "I think" | Visible ownership of opinions
+Approximation | "something like 7%" | Avoid falsely precise certainty
+Evidential hedging | "almost certainly" | Match confidence to evidence
+Casual dismissal | "crazy talk" | Brief colloquial judgments
+Strong moral language | "ugly lie" | Occasionally uncompromising conclusions
+Insider vocabulary | "NERDFIGHTASTIC THINGS" | Shared community terminology
+Playfully absurd phrases | "In Your Pants" | Unexplained recurring jokes
+Intentionally informal announcements | "Pizzamas dot com!!" | Spoken-style promotional language
+Sudden self-criticism | "Sorry it sucks." | Small, direct self-deflating remarks
+
+Parenthetical habits
+The corpus uses parentheses mainly to insert compact factual or logistical qualifications.
+"Preorder John's new novel Hollywood, Ending (out September 22!)"
+"In 1847, Michigan became the first English-speaking government to abolish capital punishment (except for treason)"
+The first is excited and promotional. The second is a factual exception.
+They share punctuation, not necessarily a common emotional function.
+
+Punctuation fingerprint
+Ellipses as spoken transitions: "make stuff...but the hard part"
+Double exclamation marks for promotional enthusiasm: "Pizzamas dot com!!"
+All caps for community announcements: "GET YOUR PIZZAMAS:"
+Horizontal separators dividing content from promotion: "----"
+Long equality-sign dividers in the older descriptions: "======================"
+
+Lexical changes across time
+The older descriptions foreground: "Shirts and Stuff", "Nerdfighteria"
+The recent descriptions repeatedly foreground: "Subscribe to our newsletter!", "Learn more about our project to help Partners in Health radically reduce maternal mortality in Sierra Leone"
+That is a meaningful change in the recurring material surrounding the prose.
+It should not automatically be interpreted as a change in one individual's writing style. These are shared channel elements, and the supplied 2007 descriptions may have been updated after their original upload dates.
+
+5. HUMOR MECHANISM
+The central mechanism is incongruity presented without warning or explanation.
+The author does not always write something conventionally structured as a joke. Often, the humor emerges because the sentence refuses to acknowledge how strange its components are.
+
+Mechanism A: Equal treatment of unequal events
+"discusses babies, makes a gratuitous "In Your Pants" joke, and puts on his invisibility cloak."
+The sentence grants a survey, babies, a joke, and magical clothing essentially the same narrative importance.
+The reader supplies the surprise.
+
+Mechanism B: Exaggerated grandeur applied to everyday inconvenience
+"John miraculously uploads a video in the Savannah airport in spite of not having a power cord."
+The word "miraculously" transforms a logistical problem into a heroic achievement.
+Then: "Sorry it sucks."
+The elevated framing collapses.
+The humor is created by the distance between how important the event is made to sound and how little dignity the narrator ultimately claims.
+
+Mechanism C: Excessive enthusiasm for something the audience is expected to recognize
+"Pizzamas dot com!!"
+The two exclamation marks and deliberately spoken-out website name create a promotional performance with a faintly ridiculous character.
+The reference is not explained. Familiarity is part of the effect.
+
+Mechanism D: Unexpectedly literal organizational humor
+"HERE ARE A LOT OF LINKS TO NERDFIGHTASTIC THINGS:"
+This heading is almost aggressively unpolished.
+Rather than inventing a sophisticated label for the resource section, it describes exactly what follows and adds invented community vocabulary.
+
+What is inconsistent
+The execution description contains: "I think that this has always been an ugly lie"
+It treats its subject with gravity, not comic detachment.
+Similarly, the memorial description states:
+"RIP Michael Taliadoros, aka Mikey T, AFC Wimbledon legend and friend to every Wimbledon fan."
+Neither passage offers evidence of a deliberate punchline.
+
+Reusable humor rule: Find a genuine mismatch of importance, tone, or expectation. Present it plainly. Do not add a paragraph explaining why it is funny.
+For solemn subjects, allow the jokes to disappear.
+
+6. STRUCTURAL PATTERN
+There is no single universal paragraph structure. Three templates account for the eight descriptions.
+
+Template A: The miniature episode
+Found in all three 2007 descriptions and the recent "The Test of a First Rate Intelligence" and "Make Your Art."
+Title: episode, theme, or directive — "Brotherhood 2.0: January 26, 2007"
+"In which" + subject + sequence of actions — "In which John finished the survey, discusses babies..."
+Optional punchline or emotional qualification — "Sorry it sucks." / "RIP Michael Taliadoros"
+Links + community footer — "HERE ARE A LOT OF LINKS..."
+The paragraph is essentially one compressed story, not a conventional introduction-body-conclusion essay.
+
+Template B: The opinion or investigation
+Found in "The Productivity Lie" and "Why Are We So Bad at Executing People?"
+The progression is:
+1. Provocative position — "We are very bad at executing people."
+2. Explanation of the difficulty or investigation — "This seemed very strange to me, so I dove into the numbers"
+3. Reframing of the original question — "the hard part is figuring out how to get yourself making."
+4. Consequential judgment — "as a society, we no longer actually believe it."
+The argument does not end with a generic inspirational statement. It attempts to change the interpretation of the problem.
+One description then provides an unusually extensive source list: "Sources:", "The AMA on executions:", "The American Board of Anesthesiology on executions:"
+That evidence apparatus is present in the execution sample, not in the productivity sample. It is therefore an optional research-oriented feature rather than a guaranteed structural rule.
+
+Template C: The announcement board
+Found most clearly in "The 5 Meanest Things We've Named a Species."
+"Pizzamas dot com!! https://pizzamas.com/"
+"Etyfish is here: https://etyfish.org/"
+This description provides almost no narrative content.
+It exists primarily to direct attention elsewhere.
+
+Opening and closing conventions
+The video titles use multiple hook types:
+"The Productivity Lie", "The 5 Meanest Things We've Named a Species", "Make Your Art.", "Why Are We So Bad at Executing People?"
+These show a mixture of contradiction, ranking, imperative, and provocative question. No single title formula dominates all eight.
+The actual descriptions sometimes begin with commercial material before reaching the argument:
+"Last Chance at Pizzamas Dot Com: https://pizzamas.com/"
+And most do not finish with a specially written literary ending. The five recent samples share:
+"If you're in Canada, you can donate here: https://pihcanada.org/hankandjohn"
+The three older samples finish with: "A Bunny"
+This distinction is essential. The unique prose often supplies the emotional or argumentative ending; the literal description ends with reusable channel material.
+
+Reusable writing specification
+A writer attempting to reproduce the observable mechanics should use the following procedure:
+1. Choose a mode first: miniature episode, argumentative investigation, or plain announcement.
+2. For an episode, open with a slightly formal narrative frame, then combine two ordinary details with one unexpected detail.
+3. For an investigation, begin with an understandable assertion, introduce uncertainty, explain the inquiry, and arrive at a changed interpretation.
+4. Mix informal expressions with precise reasoning, but do not insert humor where the subject is treated seriously.
+5. Let the unique prose finish on its strongest idea; separate promotional links from the main writing.
+These are operational rules supported by the sample patterns, not a claim that every future description will follow them.
+
+7. THE ONE THING THAT CANNOT BE COPIED
+The hardest element to reproduce is the accumulated relationship between the author, the channel, and its audience.
+Not the ellipses. Not "In which." Not the jokes or the sudden changes of sentence length.
+Those are technical behaviors.
+The difficult part is making a sentence like this feel natural:
+"In which John limps to the finish line of Pizzamas and the Hollywood, Ending tour."
+It presumes that the audience understands who John is, what Pizzamas means, and why the described exhaustion is worth mentioning.
+The same presumed familiarity appears in:
+"Nerdfighteria"
+"A Bunny"
+And the community extends beyond jokes and recurring characters:
+"Learn more about our project to help Partners in Health radically reduce maternal mortality in Sierra Leone"
+The descriptions place fundraising, private-sounding references, commercial projects, peculiar jokes, and personal loss within the same channel environment.
+For example:
+"In which John makes a video in memory of an artist who created magic for a few of us."
+The phrase "a few of us" is particularly revealing.
+It refers to a specific circle of people and a shared experience without attempting to universalize the loss.
+An imitator can copy the grammatical intimacy. They cannot manufacture the relationships that make the reference meaningful.
+The distinction is between writing as though the reader already knows you and writing for readers who actually do.
+The first is a technique. The second depends on accumulated experiences that are not contained in the words alone.
+
+Final style fingerprint
+REUSABLE CORE: Curiosity + compressed absurdity + personal conviction + shared context
+The writing treats unusual ideas as worth investigating, everyday events as occasionally ridiculous, and the reader as someone who can follow along without constant explanation.
+
+Most reproducible: The "In which" framework, incongruous lists, conversational qualifiers, and shifts between long reasoning and short judgments.
+Least reproducible: The historical familiarity that allows a phrase like "Nerdfighteria" or "Pizzamas" to carry meaning without explanation.
+Biggest cloning mistake: Treating this as a uniformly funny, fast-paced educational voice. The evidence includes a solemn memorial, a moral argument, an informal creativity reflection, several humorous miniatures, and a near-contentless announcement.
+
+Confidence boundary: These conclusions apply to the supplied YouTube descriptions, not necessarily to the spoken language, editing, comedic timing, or full scripts of the videos. In particular, the samples do not establish a sufficiently clean authorship record to attribute every linguistic choice specifically to Hank Green.
+
+============================================================
+END RAW OUTPUT
+============================================================
+
+VERIFIER NOTES (added by 主理人 海鸥, not part of raw output):
+- Output length: approximately 2,900 words. Substantially longer than requested,
+  but no truncation signals observed in the user-pasted version.
+- Compliance check against prompt rules:
+  * "at least 5" signature devices -> delivered 10. PASS
+  * "every claim backed by a direct quote" -> every device carries a quoted line. PASS
+  * "identify inconsistencies, do not average into a bland rule" -> explicitly did this. PASS
+  * banned words ("engaging", "authentic", "compelling", "resonates") -> zero hits. PASS
+- Unprompted behaviour: independently flagged the two-person-channel authorship
+  ambiguity AND the 2007-vs-recent lexical shift WITHOUT averaging them together.
+  This matches exactly the limitation logged in 00-samples/run-notes.txt item 2.

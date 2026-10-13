@@ -1,0 +1,43 @@
+# The Break Test #01 · 素材抓取记录（run-notes）
+
+抓取时间：2026-10-13 11:04–11:07
+工具：yt-dlp 2026.07.04
+Channel: https://www.youtube.com/@vlogbrothers
+Channel ID: UCGaVdbSav8xWuFWTadK6loA
+
+## 抓到的素材（8 份）
+- 5 份近期（hank-recent-01..05）
+- 3 份 2007 年 1–2 月（hank-2007-01..03）
+
+## ⚠️ 如实记录的限制（不许修饰）
+1. **5 份近期视频的上传日期未取得**。
+   原因：连续请求后 YouTube 触发 bot 检测
+   （"Sign in to confirm you're not a bot"），需 --cookies-from-browser。
+   处理：全部标注 UPLOAD_DATE: unknown，**不推算、不编日期**。
+   后续补救：可在浏览器打开各视频页人工确认。
+
+2. **作者归属不确定（重要）**。
+   vlogbrothers 是 John Green + Hank Green 双人频道，
+   描述区不总是标注由谁撰写。因此素材严格说
+   是「vlogbrothers 频道文案」，不是纯粹的「Hank Green 文案」。
+   → 这是本次测试的固有偏差，已在每份素材头部标注
+     AUTHOR_ATTRIBUTION: unknown。
+   → 视频里必须明说这个限制，否则属于隐瞒。
+
+3. **未抓取 Hank Green 个人频道**（@hankgreen）。
+   若后续要消除偏差 2，应补抓 Hank 个人频道的描述区。
+
+4. **未抓 X 帖子**。原计划抓 5 条 @hankgreen X 帖子，未执行。
+
+5. **素材量为描述区文案，非视频口播逐字稿**。
+   若要测的是「说话风格」而非「写作风格」，
+   需另外转写视频音频（Whisper 类工具），本测试未覆盖。
+
+## 使用的命令（可复现）
+yt-dlp --skip-download --write-description --playlist-items 1-5 "https://www.youtube.com/@vlogbrothers/videos"
+yt-dlp --skip-download --write-description --playlist-items 1-3 "ytsearch3:vlogbrothers 2007"
+
+## 备注
+- 文件名由 yt-dlp 默认生成（标题+ID），原始文件保留未删。
+- hank-*.txt 为规范化版本，头部含 SOURCE / ERA / CAPTURED / 限制标注。
+- combined-for-gpt.txt = 8 份素材合并，直接用于替换 prompt 末行占位符。

@@ -1,0 +1,49 @@
+RUN: 02
+TIME SENT: 2026-10-13 (afternoon, exact time TBD by user)
+MODEL: ChatGPT (GPT) — same session/context as run-01
+PURPOSE: Step 3 还原度测试 —— 只用 run-01 产出的风格指南，写虚构场景的
+         100 词 vlogbrothers 风格开场白
+PROMPT SENT: 04-rubric/ROUND-2-PROMPT.md (verbatim)
+CONSTRAINT COMPLIANCE CHECK: 素材未重发 ✅（用户未附任何原文）
+
+============================================================
+RAW OUTPUT — VERBATIM, DO NOT EDIT
+============================================================
+
+Yesterday I gave an AI note-taking app one job: listen to a lecture and
+tell me what happened. It promised perfect summaries, which is a bold
+promise for software living on a planet where even humans struggle to
+remember what happened in a lecture. The app immediately promoted my
+roommate to professor. Repeatedly. My roommate, for the record, was
+eating cereal. Then I coughed for an hour, and the app reported,
+"Key concept: respiratory health." Technically, sure! But if we confuse
+detecting sounds with understanding them, we have a problem much bigger
+than one imaginary professor.
+
+============================================================
+END RAW OUTPUT
+============================================================
+
+VERIFIER NOTES (added by 主理人 海鸥, not part of raw output):
+
+WORD COUNT: 96 words (manually counted). Within the 90-110 range. PASS on
+the only hard numeric constraint given.
+
+OUTPUT FORMAT: blurb only. No preamble, no headings, no labels, no word
+count stated, no meta-commentary. PASS.
+
+SAMPLES RE-SUPPLIED: No. The constraint "Do not re-read the original
+samples" held. This is what makes the Step 3 verdict meaningful.
+
+REAL vlogbrothers FINGERPRINT TERMS PRESENT IN OUTPUT:
+  "In which"            -> ABSENT
+  "I think"             -> ABSENT
+  ellipsis "..."        -> ABSENT
+  ALL CAPS              -> ABSENT
+  "dot com!!"           -> ABSENT
+  "A Bunny"             -> ABSENT
+  "======================" -> ABSENT
+  -> ZERO of the seven fingerprint markers the model itself listed in
+     run-01 section 4 appear in its own generated prose.
+
+THIS IS THE CENTRAL FINDING OF THE ENTIRE TEST.

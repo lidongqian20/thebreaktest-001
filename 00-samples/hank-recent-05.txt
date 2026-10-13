@@ -1,0 +1,71 @@
+SOURCE: https://www.youtube.com/watch?v=AvNZfUjYYOk
+TITLE: Why Are We So Bad at Executing People?
+ERA: RECENT
+UPLOAD_DATE: unknown
+CAPTURED: 2026-10-13
+AUTHOR_ATTRIBUTION: unknown — vlogbrothers is a two-person channel; the description does not always state who wrote it.
+TOOL: yt-dlp 2026-07-04 (--skip-download --write-description)
+----------------------------------------
+
+We are very bad at executing people. Depending on how you count, something like 7% of lethal injections in the US have been botched. This seemed very strange to me, so I dove into the numbers, looked at veterinary euthanasia, end-of-life care, and execution procedures, and what I found was that, almost certainly, the difference here is that a very high percentage of competent individuals refuse to engage in government executions.
+
+I understand that, to many, killing a killer is a way of honoring life. I think that this has always been an ugly lie, but the fact that we cannot do it at all competently indicates to me that, as a society, we no longer actually believe it. 
+
+Sources:
+37 states haven't executed anyone in the last 5 years: https://deathpenaltyinfo.org/executions/executions-overview/states-with-no-recent-executions
+
+23 states have abolished the death penalty: https://deathpenaltyinfo.org/executions/executions-overview/states-with-no-recent-executions
+
+In 1847, Michigan became the first English-speaking government to abolish capital punishment (except for treason) https://www.michbar.org/programs/milestone/milestones_firsttoabolish
+
+Tennessee Governor Bill Lee has suspended executions: https://www.reuters.com/world/us/tennessee-governor-calls-failed-christa-pike-execution-tragedy-2026-10-01/
+
+Attempted execution of Krista Pike: https://www.reuters.com/world/us/tennessee-due-execute-woman-first-time-two-centuries-2026-09-30/
+
+More background on pike: https://www.reuters.com/world/us/tennessee-governor-calls-failed-christa-pike-execution-tragedy-2026-10-01/
+
+People sentenced to death have subsequently been exonerated: https://deathpenaltyinfo.org/facts-and-research/data/innocence
+
+Joe Arridy was posthumously pardoned in 201: https://files.deathpenaltyinfo.org/legacy/ArridyPardon.pdf
+
+Lethal injection is the most common execution method in the US: https://deathpenaltyinfo.org/executions/methods-of-execution
+
+Info on Tennessee's protocols: https://apnews.com/article/225a47554413611c4626702c32a2577d
+
+On IV Failure modes: https://www.nhsfife.org/services/all-services/patient-advice/infiltration-and-extravasation/
+
+Pentobarbital outside of a blood vessel: https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=d375b92a-baa1-4d63-9ad1-1467dcfde7d5
+
+We have accidentally used the wrong drugs: https://deathpenaltyinfo.org/oklahoma-grand-jury-issues-report-detailing-blatant-violations-of-the-states-execution-protocol
+
+Veterinary euthanasia can occasionally go weird: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c885b1d9-db06-47fb-bdb0-4015e06ce08b
+
+https://www.vmd.defra.gov.uk/productinformationdatabase/files/UKPAR_Documents/UKPAR_356920.PDF
+
+Execution drugs and protocols vary between states: https://deathpenaltyinfo.org/executions/methods-of-execution/state-by-state-execution-protocols
+
+The AMA on executions: https://code-medical-ethics.ama-assn.org/ethics-opinions/capital-punishment
+
+The American Board of Anesthesiology on executions: https://www.theaba.org/capital-punishment/
+
+Dr. Mark Fowler was involved in a previous botched execution: https://www.wsmv.com/2026/08/14/doctor-botched-lethal-injection-says-he-will-now-oversee-execution-only-woman-tns-death-row-heres-what-we-know/
+
+https://deathpenaltyinfo.org/news/tennessee-botches-another-execution-despite-earlier-warnings-from-attorneys-christa-pike-was-alive-hours-after-attempt-began
+
+Pfizer on providing lethal injection drugs: https://cdn.pfizer.com/pfizercom/2021-06/21-lethal-injection-policy-paper-final.pdf
+
+Gallup’s 2025 poll - 52% of US adults supported the death penalty for murder (the lowest support since 1972): https://news.gallup.com/poll/697244/americans-prefer-tempered-crime-fighting-methods.aspx
+
+7% of lethal-injection executions classified as botched: https://deathpenaltyinfo.org/executions/botched-executions/
+
+New death sentences remain far below their peak: https://deathpenaltyinfo.org/facts-and-research/data/sentencing-data
+
+Executions are also far below their peak: https://deathpenaltyinfo.org/research/analysis/reports/year-end-reports/the-death-penalty-in-2025
+
+
+----
+Subscribe to our newsletter! https://werehere.beehiiv.com/subscribe
+Preorder John's new novel Hollywood, Ending (out September 22!): https://hollywoodendingbook.com
+Learn more about our project to help Partners in Health radically reduce maternal mortality in Sierra Leone: https://www.pih.org/hankandjohn
+If you're able to donate $2,000 or more to this effort, please join our matching fund: https://pih.org/hankandjohnmatch
+If you're in Canada, you can donate here: https://pihcanada.org/hankandjohn

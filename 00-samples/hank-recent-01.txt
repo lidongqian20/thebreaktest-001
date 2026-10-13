@@ -1,0 +1,21 @@
+SOURCE: https://www.youtube.com/watch?v=Fj-INVmmILo
+TITLE: The Productivity Lie
+ERA: RECENT
+UPLOAD_DATE: unknown
+CAPTURED: 2026-10-13
+AUTHOR_ATTRIBUTION: unknown — vlogbrothers is a two-person channel; the description does not always state who wrote it.
+TOOL: yt-dlp 2026-07-04 (--skip-download --write-description)
+----------------------------------------
+
+Last Chance at Pizzamas Dot Com: https://pizzamas.com/
+
+The Everything We Have Too Much Of Bundle: https://pizzamas.com/products/everything-we-have-too-much-of-bundle
+
+Productivity when applied to individual creativity, I think, is exactly backward. I think we all should want to make stuff...but the hard part isn't doing it as efficiently as possible...you can do whatever you want once you're making stuff...the hard part is figuring out how to get yourself making. Focusing on "productivity" in that situation is crazy talk...instead, you need to figure out what opportunities you have and what matters to you. 
+
+----
+Subscribe to our newsletter! https://werehere.beehiiv.com/subscribe
+Preorder John's new novel Hollywood, Ending (out September 22!): https://hollywoodendingbook.com
+Learn more about our project to help Partners in Health radically reduce maternal mortality in Sierra Leone: https://www.pih.org/hankandjohn
+If you're able to donate $2,000 or more to this effort, please join our matching fund: https://pih.org/hankandjohnmatch
+If you're in Canada, you can donate here: https://pihcanada.org/hankandjohn

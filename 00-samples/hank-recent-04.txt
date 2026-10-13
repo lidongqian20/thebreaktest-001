@@ -1,0 +1,18 @@
+SOURCE: https://www.youtube.com/watch?v=TgUMME8J2Hg
+TITLE: Make Your Art.
+ERA: RECENT
+UPLOAD_DATE: unknown
+CAPTURED: 2026-10-13
+AUTHOR_ATTRIBUTION: unknown — vlogbrothers is a two-person channel; the description does not always state who wrote it.
+TOOL: yt-dlp 2026-07-04 (--skip-download --write-description)
+----------------------------------------
+
+In which John makes a video in memory of an artist who created magic for a few of us. RIP Michael Taliadoros, aka Mikey T, AFC Wimbledon legend and friend to every Wimbledon fan.
+Pizzamas: http://pizzamas.com
+
+----
+Subscribe to our newsletter! https://werehere.beehiiv.com/subscribe
+Preorder John's new novel Hollywood, Ending (out September 22!): https://hollywoodendingbook.com
+Learn more about our project to help Partners in Health radically reduce maternal mortality in Sierra Leone: https://www.pih.org/hankandjohn
+If you're able to donate $2,000 or more to this effort, please join our matching fund: https://pih.org/hankandjohnmatch
+If you're in Canada, you can donate here: https://pihcanada.org/hankandjohn

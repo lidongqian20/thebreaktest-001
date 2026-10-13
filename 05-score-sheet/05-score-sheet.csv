@@ -1,0 +1,13 @@
+step,dimension,score_max,score_max_note,score_actual,note
+1,accepts_the_file,2,"0=fail 1=partial 2=pass",
+2,one_shot_run,2,"0=multi round needed 1=partial 2=single shot pass",
+3,lexical_fingerprint,2,"0=none 1=1-2 hits 2=3+ correct",
+3,sentence_rhythm,2,"0=flat 1=partial 2=short-long alternation reproduced",
+3,signature_devices,2,"0=none 1=lookalike only 2=nameable device",
+3,humor_mechanism,2,"0=meme style 1=partial 2=self-deprecating+absurd reproduced",
+3,information_density,2,"0=padding 1=partly dense 2=high-density fragments",
+3,closing_shape,2,"0=generic summary 1=close 2=shape matches",
+4,messy_input,2,"0=averaged into bland 1=partial 2=flags the evolution explicitly",
+5,usable_as_is,2,"0=major rewrite 1=minor rewrite <20% 2=publishable as-is",
+TOTAL,step3_subtotal,,,"",
+VERDICT,breaks_at_step,,,"",
