@@ -26,7 +26,7 @@ I set a five-step bar **before** running anything. Then I ran the real test.
 | Step | Result |
 |---|---|
 | 1. Accepts the file at all | ✅ Pass |
-| 2. One shot, hands off | 🟡 Partial (1/2 — session contamination, see SCORING.md) |
+| 2. One shot, hands off | ✅ Pass (2/2 — after a clean re-test) |
 | **3. Line-by-line fidelity** | ❌ **Fail (4/12)** |
 | 4. Holds up on messy input | ✅ Pass |
 | 5. Usable as-is | ❌ Fail |
@@ -71,6 +71,8 @@ Anything that averages, cannot preserve what makes a voice worth copying.
 | `03-raw-output/run-02.txt` | The model's 96-word generated blurb. Verbatim. |
 | `04-rubric/04-rubric.md` | The five-step pass/fail bar, **fixed before testing**. |
 | `04-rubric/SCORING.md` | The score, with a stated reason for every point deducted. |
+| `04-rubric/REPRODUCIBILITY.md` | run-01 vs run-03 five-point comparison. Reproducibility result: five of five match. |
+| `04-rubric/ROUND-3-READY.txt` | The exact second run: prompt with samples already inlined, sent as one message in a new session. |
 | `04-rubric/ROUND-2-PROMPT.md` | The exact second-round prompt used for Step 3. |
 
 Evidence rule for this series: **the bar is set before the test runs, and no file
@@ -95,7 +97,7 @@ yt-dlp --skip-download --write-description --playlist-items 1-3 "ytsearch3:vlogb
 #    Do NOT re-send the samples. That is the entire point of Step 3.
 ```
 
-> ⚠️ **Known reproducibility gap**: the model was reported to me as `"6sol"`
+> ⚠️ **Known reproducibility gap**: the model was reported to me as `"gpt6sol"`
 > (high reasoning). That name does not match OpenAI's published naming, so I have
 > recorded it verbatim and flagged it as unverified. See `02-versions/02-versions.md`.
 > Until the exact model name is filled in, this test is **not fully reproducible**.
@@ -118,6 +120,31 @@ yt-dlp --skip-download --write-description --playlist-items 1-3 "ytsearch3:vlogb
    for retest, because a conclusion built on contaminated data is not a conclusion.
 5. **n = 1.** This is one model, one account, one prompt, one day. It is a data
    point, not a law.
+
+---
+
+## Reproducibility
+
+The same prompt and the same eight samples, run twice in separate sessions,
+produced the **same five headline findings**:
+
+| Checked | run-01 | run-03 | Match |
+|---|---|---|---|
+| All 7 sections present | 7/7 | 7/7 | ✅ |
+| Rhetorical devices (bar: ≥5) | 10 | 8 | ✅ |
+| Authorship ambiguity flagged | yes | yes | ✅ |
+| 2007 vs recent kept separate | yes | yes | ✅ |
+| Lexical fingerprint listed | yes | yes | ✅ |
+
+So the conclusion is not a one-off. Differences were present (10 devices vs 8;
+a tighter evidentiary caveat in run-03) but no contradiction.
+
+**Two independent runs also produced the same answer to "what cannot be copied."**
+That makes it a stable behaviour of the tool, not noise.
+
+Bonus finding of the re-test: **running the same input twice is itself a
+better test than running it once** — it separates what is stable from what is
+random. That move is now part of the method for every future test.
 
 ---
 
